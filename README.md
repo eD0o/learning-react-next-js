@@ -16,5 +16,5 @@ Studies about react and next js according to this course: https://www.udemy.com/
 **section2**: 
 - [npx-create-react-app](https://github.com/eD0o/learning-react-next-js/tree/section2#21---npx-create-react-app)
 - [Class Component](https://github.com/eD0o/learning-react-next-js/tree/section2#class-component)
-- [Observations](https://github.com/eD0o/learning-react-next-js/tree/section2#21---npx-create-react-app)
+- [Observations](https://github.com/eD0o/learning-react-next-js/tree/section2#observations)
 
