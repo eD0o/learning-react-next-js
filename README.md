@@ -13,14 +13,14 @@ However, to manually configure React.js to your index.html, is possible import t
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 ```
-Test ![](https://prnt.sc/uu2zu0)
+Test ![alt](https://prnt.sc/uu2zu0)
 
 ### Observations:
 
-React is *standardized with PascalCase*.
+React is **standardized with PascalCase**.
 
 Components in React are always capitalized: "App", "Header", "Helmet", etc. As well as classes and constructors.
 
 Some words are reserved in .js, as class, that to add an html class for an element it's necessary to use className.
 
-It's only allowed to have *one parent element in the JSX*.
+It's only allowed to have **one parent element in the JSX**.
