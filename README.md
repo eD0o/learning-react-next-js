@@ -17,6 +17,22 @@ However, to manually configure React.js to your index.html, is possible import t
 ```
 Image Test ![](https://i.imgur.com/j4zBXdN.png)
 
+### Class Component
+
+```javascript
+import {Component} from 'react';
+
+class App extends Component{
+  render (){
+    return(
+      <p>Stateless Class Component Example</p>
+    )
+  }
+}
+
+export default App;
+```
+
 ### Observations:
 
 React is **standardized with PascalCase**.
