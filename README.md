@@ -1,8 +1,10 @@
 ## 2 - Basics
 
-### 2.1 - npx create-react-app
+### npx create-react-app
 
 ```npx create-react-app 'folderProjectName'``` or ```npx create-react-app .``` to use the current folder for the project.
+
+Is also possible to use ```npm install -g create-react-app``` and then just ```create-react-app .``` to decrease the loading time.
 
 Babel and/or Webpack are always required to develop React, but using npx create-react-app everything is already settled.
 
