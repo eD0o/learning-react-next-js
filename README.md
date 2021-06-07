@@ -13,7 +13,7 @@ However, to manually configure React.js to your index.html, is possible import t
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 ```
-Test ![alt](https://prnt.sc/uu2zu0)
+Test ![](https://i.imgur.com/j4zBXdN.png)
 
 ### Observations:
 
