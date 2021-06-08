@@ -17,6 +17,10 @@ However, to manually configure React.js to your index.html, is possible import t
 ```
 Image Test ![](https://i.imgur.com/j4zBXdN.png)
 
+Video Thmb Test
+[![aaa](https://i.ytimg.com/an_webp/Ohf0wDJp9O4/mqdefault_6s.webp?du=3000&sqp=CKCz_YUG&rs=AOn4CLCjIcdyrWzG52b9mPhdo72DfKEAKg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
 ### Class Component
 
 ```javascript
@@ -35,10 +39,10 @@ export default App;
 
 ### Observations:
 
-React is **standardized with PascalCase**.
+> React is **standardized with PascalCase**.
 
-Components in React are always capitalized: "App", "Header", "Helmet", etc. As well as classes and constructors.
+> Components in React are always capitalized: "App", "Header", "Helmet", etc. As well as classes and constructors.
 
-Some words are reserved in .js, as class, that to add an html class for an element it's necessary to use className.
+> Some words are reserved in .js, as class, that to add an html class for an element it's necessary to use className.
 
-It's only allowed to have **one parent element in the JSX**.
+> It's only allowed to have **one parent element in the JSX**.
