@@ -15,7 +15,6 @@ However, to manually configure React.js to your index.html, is possible import t
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 ```
-Image Test ![](https://i.imgur.com/j4zBXdN.png)
 
 Video Thmb Test
 [![aaa](https://i.ytimg.com/an_webp/Ohf0wDJp9O4/mqdefault_6s.webp?du=3000&sqp=CKCz_YUG&rs=AOn4CLCjIcdyrWzG52b9mPhdo72DfKEAKg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
@@ -42,13 +41,13 @@ export default App;
 
 
 #### componentDidMount
-This method is used similarly as DOMContentLoaded, but for the component that is involved. When it's charged, it's possible to trigger some function.
+This method is used triggered when the component is fully loaded in the page.
 
 #### componentDidUpdate
 This method is triggered when there's some change in the component.
 
 ### componentWillUnmount
-This method is triggered when the component stops being rendered in the page.
+This method is triggered when the component stops being rendered in the page. Really necessary to remove the trash from the componentDidUpdate changes.
 
 ### Observations:
 
