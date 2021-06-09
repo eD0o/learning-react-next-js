@@ -46,3 +46,6 @@ export default App;
 > Some words are reserved in .js, as class, that to add an html class for an element it's necessary to use className.
 
 > It's only allowed to have **one parent element in the JSX**.
+
+> .map() requires a key value in the father element to React better identify and compile.
+![](https://i.imgur.com/EWYoQIM.png)
