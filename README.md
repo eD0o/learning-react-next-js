@@ -37,6 +37,19 @@ class App extends Component{
 export default App;
 ```
 
+### Lifecycle Methods
+[![React Lifecycle](https://i.imgur.com/NDDggF8.png)](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+
+#### componentDidMount
+This method is used similarly as DOMContentLoaded, but for the component that is involved. When it's charged, it's possible to trigger some function.
+
+#### componentDidUpdate
+This method is triggered when there's some change in the component.
+
+### componentWillUnmount
+This method is triggered when the component stops being rendered in the page.
+
 ### Observations:
 
 > React is **standardized with PascalCase**.
