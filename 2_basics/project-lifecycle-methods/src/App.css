@@ -1,0 +1,26 @@
+.container{
+  min-height: 100vh;
+  background: rgb(191, 244, 255);
+  padding: 10px;
+}
+
+.posts{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2em;
+}
+
+.post{
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  padding: 10px;
+}
+
+.post img{
+  max-width: 100%;
+}
