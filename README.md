@@ -19,6 +19,8 @@ However, to manually configure React.js to your index.html, is possible import t
 Video Thmb Test
 [![aaa](https://i.ytimg.com/an_webp/Ohf0wDJp9O4/mqdefault_6s.webp?du=3000&sqp=CKCz_YUG&rs=AOn4CLCjIcdyrWzG52b9mPhdo72DfKEAKg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
+- What is a React component?
+> A React component is a class that has one render method and returns jsx, or, a function that also returns jsx.
 
 ### Class Component
 
