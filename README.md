@@ -63,3 +63,5 @@ This method is triggered when the component stops being rendered in the page. Re
 
 > .map() requires a key value in the father element to React better identify and compile.
 ![](https://i.imgur.com/EWYoQIM.png)
+
+> Extension recommended: [https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related]
